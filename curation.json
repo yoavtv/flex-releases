@@ -788,6 +788,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791656545
+   },
+   "banner": {
+    "img": "https://assets.fanart.tv/fanart/hot-fuzz-4fdba4b1aafeb.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791656550
    }
   }
  },
