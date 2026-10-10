@@ -848,6 +848,19 @@
     "by": "yoavifon",
     "at": 1791656698
    }
+  },
+  "movie:503919": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-lighthouse-5d40b66ce4e51.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791656850
+   }
   }
  },
  "bad_posters": {}
