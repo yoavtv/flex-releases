@@ -1114,15 +1114,15 @@
   },
   "movie:11423": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/1IW1zv35kh7ArR9oF0k1OcpErha.jpg",
+    "img": "https://image.tmdb.org/t/p/original/4RiR8a46LXGVHvUdmJy5lGcngFL.jpg",
     "x": 50.0,
-    "y": 22.0,
-    "tx": 0.0,
+    "y": 59.4,
+    "tx": -0.6,
     "ty": 0.0,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1791670963
+    "at": 1791670985
    }
   }
  },
