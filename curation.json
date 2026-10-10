@@ -1248,6 +1248,19 @@
     "by": "yoavifon",
     "at": 1791671532
    }
+  },
+  "movie:346364": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/it-58e0396b6e104.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": true,
+    "by": "yoavifon",
+    "at": 1791671563
+   }
   }
  },
  "bad_posters": {}
