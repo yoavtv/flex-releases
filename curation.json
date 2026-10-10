@@ -887,6 +887,19 @@
     "by": "yoavifon",
     "at": 1791657837
    }
+  },
+  "movie:550": {
+   "banner": {
+    "img": "https://assets.fanart.tv/fanart/fight-club-55e24156183a6.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791660555
+   }
   }
  },
  "bad_posters": {}
