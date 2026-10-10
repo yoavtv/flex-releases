@@ -825,15 +825,15 @@
     "at": 1791656598
    },
    "page": {
-    "img": "https://assets.fanart.tv/fanart/logan-5864a9c38f93e.jpg",
+    "img": "https://assets.fanart.tv/fanart/logan-5984de3b434d6.jpg",
     "x": 50.0,
-    "y": 22.0,
-    "tx": 0.0,
+    "y": 3.3,
+    "tx": -0.1,
     "ty": 0.0,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1791656613
+    "at": 1791656629
    }
   }
  },
