@@ -901,15 +901,15 @@
     "at": 1791660555
    },
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/cr15eQHMIV1wwAvf2VLME5yYCA3.jpg",
+    "img": "https://assets.fanart.tv/fanart/fight-club-5f26b5ac5a5f2.jpg",
     "x": 50.0,
-    "y": 22.0,
-    "tx": 0.0,
+    "y": 22.8,
+    "tx": 1.3,
     "ty": 0.0,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1791660575
+    "at": 1791660625
    }
   }
  },
