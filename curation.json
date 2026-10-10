@@ -124,6 +124,19 @@
     "by": "yoavifon",
     "at": 1791640279
    }
+  },
+  "movie:293660": {
+   "card": {
+    "img": "https://assets.fanart.tv/fanart/deadpool-5684646ee21bd.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 5.4,
+    "ty": 4.1,
+    "zoom": 1.1,
+    "flip": true,
+    "by": "yoavifon",
+    "at": 1791640769
+   }
   }
  },
  "bad_posters": {}
