@@ -1090,7 +1090,7 @@
   },
   "movie:496243": {
    "page": {
-    "img": "https://assets.fanart.tv/fanart/parasite-5e4a49e83a7f3.jpg",
+    "img": "https://image.tmdb.org/t/p/original/cI1RBfqXbWaITTjcKGYLhd9F083.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
@@ -1098,7 +1098,7 @@
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1791670878
+    "at": 1791670899
    }
   }
  },
