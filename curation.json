@@ -659,6 +659,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791656191
+   },
+   "trilogy": {
+    "img": "https://image.tmdb.org/t/p/original/k3zHywyY9K9myJ8bgYHkie2qVyy.jpg",
+    "x": 1.2,
+    "y": 50.0,
+    "tx": 0.0,
+    "ty": 8.2,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791656252
    }
   }
  },
