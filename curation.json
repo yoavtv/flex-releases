@@ -776,6 +776,19 @@
     "by": "yoavifon",
     "at": 1791656510
    }
+  },
+  "movie:4638": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/hot-fuzz-67fbd3efe897b.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791656545
+   }
   }
  },
  "bad_posters": {}
