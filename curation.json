@@ -1185,6 +1185,19 @@
     "by": "yoavifon",
     "at": 1791671263
    }
+  },
+  "movie:205596": {
+   "card": {
+    "img": "https://assets.fanart.tv/fanart/the-imitation-game-545e1d34e0e99.jpg",
+    "x": 50.0,
+    "y": 50.2,
+    "tx": -0.1,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791671304
+   }
   }
  },
  "bad_posters": {}
