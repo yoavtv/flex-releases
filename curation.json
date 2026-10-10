@@ -17,6 +17,17 @@
     "zoom": 1.0,
     "by": "yoavifon",
     "at": 1791638984
+   },
+   "card": {
+    "img": "https://image.tmdb.org/t/p/original/5glivQffWJkRJttJ5g5LW14kmeC.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": -0.1,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": true,
+    "by": "yoavifon",
+    "at": 1791640036
    }
   },
   "movie:1368337": {
