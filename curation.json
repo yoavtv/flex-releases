@@ -601,6 +601,19 @@
     "by": "yoavifon",
     "at": 1791656044
    }
+  },
+  "movie:18785": {
+   "card": {
+    "img": "https://image.tmdb.org/t/p/original/8RbtwAQu0Z4B8BTd3Bim2zv55Bk.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791656080
+   }
   }
  },
  "bad_posters": {}
