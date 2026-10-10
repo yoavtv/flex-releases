@@ -1238,7 +1238,7 @@
   },
   "movie:8363": {
    "page": {
-    "img": "https://assets.fanart.tv/fanart/superbad-5400aa05df1d3.jpg",
+    "img": "https://image.tmdb.org/t/p/original/z2cjtcPIssilQfVaO2LrUyLjapC.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
@@ -1246,7 +1246,7 @@
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1791671518
+    "at": 1791671524
    }
   }
  },
