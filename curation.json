@@ -354,6 +354,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791651385
+   },
+   "banner": {
+    "img": "https://assets.fanart.tv/fanart/the-good-the-bad-and-the-ugly-588e6774b48c8.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": true,
+    "by": "yoavifon",
+    "at": 1791651438
    }
   }
  },
