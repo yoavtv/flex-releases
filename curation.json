@@ -247,6 +247,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791647946
+   },
+   "card": {
+    "img": "https://image.tmdb.org/t/p/original/6pB1028py4W1D6OGgidtpKjkDTZ.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": true,
+    "by": "yoavifon",
+    "at": 1791647988
    }
   }
  },
