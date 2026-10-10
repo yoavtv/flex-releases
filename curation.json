@@ -1028,6 +1028,19 @@
     "by": "yoavifon",
     "at": 1791670542
    }
+  },
+  "movie:20453": {
+   "card": {
+    "img": "https://assets.fanart.tv/fanart/3-idiots-6210ef4c2a76a.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791670641
+   }
   }
  },
  "bad_posters": {}
