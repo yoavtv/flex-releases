@@ -1051,6 +1051,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791670688
+   },
+   "banner": {
+    "img": "https://assets.fanart.tv/fanart/3-idiots-6210ef4c2a76a.jpg",
+    "x": 50.0,
+    "y": 61.8,
+    "tx": -0.1,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791670701
    }
   }
  },
