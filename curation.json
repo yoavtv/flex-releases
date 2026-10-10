@@ -1123,6 +1123,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791670985
+   },
+   "card": {
+    "img": "https://image.tmdb.org/t/p/original/szNHLSXvR25jco4l8splUzv9WUY.jpg",
+    "x": 50.0,
+    "y": 18.5,
+    "tx": -0.1,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791671024
    }
   }
  },
