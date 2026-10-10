@@ -1348,6 +1348,19 @@
     "by": "yoavifon",
     "at": 1791672458
    }
+  },
+  "movie:348350": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/solo-a-star-wars-story-5ad9fbb911796.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791672532
+   }
   }
  },
  "bad_posters": {}
