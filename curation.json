@@ -101,6 +101,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791640218
+   },
+   "banner": {
+    "img": "https://image.tmdb.org/t/p/original/kt0Ku4cTQUZe4KyZiWC6HsWCbcS.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": -2.6,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791640270
    }
   }
  },
