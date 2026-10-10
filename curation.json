@@ -564,6 +564,19 @@
     "by": "yoavifon",
     "at": 1791655911
    }
+  },
+  "movie:185": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/a-clockwork-orange-55975909e637f.jpg",
+    "x": 50.0,
+    "y": 0.0,
+    "tx": 24.6,
+    "ty": 24.7,
+    "zoom": 0.5,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791655953
+   }
   }
  },
  "bad_posters": {}
