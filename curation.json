@@ -1064,15 +1064,15 @@
     "at": 1791670701
    },
    "trilogy": {
-    "img": "https://image.tmdb.org/t/p/original/u7kuUaySqXBVAtqEl9vkTkAzHV9.jpg",
-    "x": 53.7,
+    "img": "https://assets.fanart.tv/fanart/3-idiots-6210ef4902bfc.jpg",
+    "x": 99.4,
     "y": 22.0,
     "tx": 0.0,
-    "ty": 0.2,
+    "ty": -0.5,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1791670724
+    "at": 1791670730
    }
   }
  },
