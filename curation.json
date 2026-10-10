@@ -728,6 +728,19 @@
     "by": "yoavifon",
     "at": 1791656332
    }
+  },
+  "movie:1955": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-elephant-man-55bd6be4ae455.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791656377
+   }
   }
  },
  "bad_posters": {}
