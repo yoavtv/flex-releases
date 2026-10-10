@@ -1210,6 +1210,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791671360
+   },
+   "banner": {
+    "img": "https://image.tmdb.org/t/p/original/eMhwKEmBXtJ8eJx7Xx8M4mb9emI.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791671374
    }
   }
  },
