@@ -479,6 +479,19 @@
     "by": "yoavifon",
     "at": 1791655487
    }
+  },
+  "tv:9179": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/mMJ6lKsjgOcuZKxNYlt2hIA070B.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791655607
+   }
   }
  },
  "bad_posters": {}
