@@ -390,6 +390,19 @@
     "by": "yoavifon",
     "at": 1791652198
    }
+  },
+  "movie:558": {
+   "trilogy": {
+    "img": "https://assets.fanart.tv/fanart/spider-man-2-54c1f2887f01b.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791652408
+   }
   }
  },
  "bad_posters": {}
