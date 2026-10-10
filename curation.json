@@ -861,6 +861,19 @@
     "by": "yoavifon",
     "at": 1791656859
    }
+  },
+  "movie:120": {
+   "trilogy": {
+    "img": "https://assets.fanart.tv/fanart/the-lord-of-the-rings-the-fellowship-of-the-ring-566c2b230dbc8.jpg",
+    "x": 81.5,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": -1.6,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791657696
+   }
   }
  },
  "bad_posters": {}
