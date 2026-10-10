@@ -963,6 +963,19 @@
     "by": "yoavifon",
     "at": 1791661540
    }
+  },
+  "movie:1584": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/pM1CnP0ZN2VxmrTAbBZOS3PNoNE.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791666625
+   }
   }
  },
  "bad_posters": {}
