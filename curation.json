@@ -551,6 +551,19 @@
     "by": "yoavifon",
     "at": 1791655885
    }
+  },
+  "movie:614934": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/elvis-62bd6d780e10d.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": true,
+    "by": "yoavifon",
+    "at": 1791655911
+   }
   }
  },
  "bad_posters": {}
