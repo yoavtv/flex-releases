@@ -1151,15 +1151,15 @@
   },
   "movie:947": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/eULrEMwgXnWmzdowUfegaw2YYgD.jpg",
+    "img": "https://assets.fanart.tv/fanart/lawrence-of-arabia-5ccf8dd472870.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
     "ty": 0.0,
     "zoom": 1.0,
-    "flip": false,
+    "flip": true,
     "by": "yoavifon",
-    "at": 1791671155
+    "at": 1791671165
    }
   }
  },
