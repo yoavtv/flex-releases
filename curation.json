@@ -1222,6 +1222,19 @@
     "by": "yoavifon",
     "at": 1791671374
    }
+  },
+  "movie:13": {
+   "banner": {
+    "img": "https://assets.fanart.tv/fanart/forrest-gump-55e4e70827c69.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791671416
+   }
   }
  },
  "bad_posters": {}
