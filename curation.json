@@ -1322,6 +1322,19 @@
     "by": "yoavifon",
     "at": 1791671816
    }
+  },
+  "movie:726894": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/oL4p6swBI7KVd2sFnFmo4CQyhrr.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791672316
+   }
   }
  },
  "bad_posters": {}
