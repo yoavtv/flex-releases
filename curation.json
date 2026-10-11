@@ -1474,6 +1474,19 @@
     "by": "yoavifon",
     "at": 1791751723
    }
+  },
+  "movie:673": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/xluLTieMpbzf0Z2X5D2PFnnieEr.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791752074
+   }
   }
  },
  "bad_posters": {}
