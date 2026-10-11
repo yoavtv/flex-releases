@@ -1539,6 +1539,19 @@
     "by": "yoavifon",
     "at": 1791752323
    }
+  },
+  "movie:12445": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/harry-potter-and-the-deathly-hallows-part-2-50536b9de50ca.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791752349
+   }
   }
  },
  "bad_posters": {}
