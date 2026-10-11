@@ -1487,6 +1487,19 @@
     "by": "yoavifon",
     "at": 1791752074
    }
+  },
+  "movie:674": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/harry-potter-and-the-goblet-of-fire-5cb918c0d5c1d.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791752176
+   }
   }
  },
  "bad_posters": {}
