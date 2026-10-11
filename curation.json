@@ -1435,6 +1435,19 @@
     "by": "yoavifon",
     "at": 1791747790
    }
+  },
+  "movie:1439930": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/4RA0j1QYQCgqRsTVCnoN96RKZJx.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791751293
+   }
   }
  },
  "bad_posters": {}
