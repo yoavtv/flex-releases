@@ -992,15 +992,15 @@
   },
   "movie:1423191": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/wEV9iTPIoiLfTkftCsrI23krsQA.jpg",
+    "img": "https://image.tmdb.org/t/p/original/7WgUpN0ZMM5W9oPcl9oEcTcO6HY.jpg",
     "x": 50.0,
-    "y": 22.0,
-    "tx": 0.0,
-    "ty": 0.0,
+    "y": 0.0,
+    "tx": 0.2,
+    "ty": 0.4,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1791726668
+    "at": 1791726714
    }
   },
   "movie:634649": {
