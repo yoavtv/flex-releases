@@ -1448,6 +1448,19 @@
     "by": "yoavifon",
     "at": 1791751293
    }
+  },
+  "movie:671": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/harry-potter-and-the-philosophers-stone-58ce7128c46fb.jpg",
+    "x": 50.0,
+    "y": 1.6,
+    "tx": 0.5,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791751621
+   }
   }
  },
  "bad_posters": {}
