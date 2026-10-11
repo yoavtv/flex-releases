@@ -1396,6 +1396,19 @@
     "by": "yoavifon",
     "at": 1791722596
    }
+  },
+  "movie:466272": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/once-upon-a-time-in-hollywood-5ddc564f391f6.jpg",
+    "x": 50.0,
+    "y": 10.1,
+    "tx": -0.3,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791727845
+   }
   }
  },
  "bad_posters": {}
