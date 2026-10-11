@@ -1461,6 +1461,19 @@
     "by": "yoavifon",
     "at": 1791751621
    }
+  },
+  "movie:672": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/harry-potter-and-the-chamber-of-secrets-58cd3251895c8.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791751723
+   }
   }
  },
  "bad_posters": {}
