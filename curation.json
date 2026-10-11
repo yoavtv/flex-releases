@@ -1361,6 +1361,19 @@
     "by": "yoavifon",
     "at": 1791672532
    }
+  },
+  "movie:4922": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-curious-case-of-benjamin-button-50f1a4208a8a9.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791721898
+   }
   }
  },
  "bad_posters": {}
