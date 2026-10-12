@@ -1552,6 +1552,19 @@
     "by": "yoavifon",
     "at": 1791752358
    }
+  },
+  "movie:740985": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/borat-2-5fb3dd8058449.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791812100
+   }
   }
  },
  "bad_posters": {}
