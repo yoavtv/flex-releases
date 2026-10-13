@@ -1602,6 +1602,19 @@
     "by": "yoavifon",
     "at": 1791902640
    }
+  },
+  "movie:118340": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/guardians-of-the-galaxy-2-581c9b267a2ba.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791902871
+   }
   }
  },
  "bad_posters": {}
