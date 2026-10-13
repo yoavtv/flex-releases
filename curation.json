@@ -1576,6 +1576,19 @@
     "by": "yoavifon",
     "at": 1791812100
    }
+  },
+  "movie:280": {
+   "trilogy": {
+    "img": "https://assets.fanart.tv/fanart/terminator-2-judgment-day-502aea7397adb.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791902615
+   }
   }
  },
  "bad_posters": {}
