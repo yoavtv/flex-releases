@@ -1813,6 +1813,19 @@
     "by": "yoavifon",
     "at": 1791991289
    }
+  },
+  "tv:234034": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/fT6M3WE3ibe7y2IZP2TcejHxbaR.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791991380
+   }
   }
  },
  "bad_posters": {}
