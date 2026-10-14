@@ -1800,6 +1800,19 @@
     "by": "yoavifon",
     "at": 1791991255
    }
+  },
+  "movie:4348": {
+   "card": {
+    "img": "https://image.tmdb.org/t/p/original/Ub6FeBnrEetfR0tOS5u9HZiPcE.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1791991289
+   }
   }
  },
  "bad_posters": {}
