@@ -2030,6 +2030,19 @@
     "by": "yoavifon",
     "at": 1792089979
    }
+  },
+  "movie:275": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/opUUxoOCis7K7GL2xpLBLr7wsI8.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792090325
+   }
   }
  },
  "bad_posters": {}
