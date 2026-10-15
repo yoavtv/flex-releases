@@ -1915,6 +1915,19 @@
     "by": "yoavifon",
     "at": 1792067126
    }
+  },
+  "tv:1429": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/attack-on-titan-551eb271053e8.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792082854
+   }
   }
  },
  "bad_posters": {}
