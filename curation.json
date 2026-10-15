@@ -2033,7 +2033,7 @@
   },
   "movie:275": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/opUUxoOCis7K7GL2xpLBLr7wsI8.jpg",
+    "img": "https://assets.fanart.tv/fanart/fargo-5995d4216e6e4.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
@@ -2041,7 +2041,7 @@
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1792090325
+    "at": 1792090340
    }
   }
  },
