@@ -2297,6 +2297,19 @@
     "by": "yoavifon",
     "at": 1792096301
    }
+  },
+  "movie:509080": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/hkllv8JmO3UuRNKSiIfks5plhgi.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792096349
+   }
   }
  },
  "bad_posters": {}
