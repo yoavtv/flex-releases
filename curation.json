@@ -2259,6 +2259,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792095181
+   },
+   "card": {
+    "img": "https://assets.fanart.tv/fanart/joker-5d9294c224e25.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792095200
    }
   }
  },
