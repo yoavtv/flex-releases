@@ -2197,6 +2197,19 @@
     "by": "yoavifon",
     "at": 1792092804
    }
+  },
+  "movie:116745": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-secret-life-of-walter-mitty-56b3c3bc7fed3.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792092874
+   }
   }
  },
  "bad_posters": {}
