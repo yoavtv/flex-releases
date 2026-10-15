@@ -2158,6 +2158,19 @@
     "by": "yoavifon",
     "at": 1792091217
    }
+  },
+  "movie:2667": {
+   "card": {
+    "img": "https://assets.fanart.tv/fanart/the-blair-witch-project-57de4c9766d06.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792091647
+   }
   }
  },
  "bad_posters": {}
