@@ -1944,13 +1944,13 @@
    "page": {
     "img": "https://image.tmdb.org/t/p/original/yPJyXYfDrlD7bEjAtTAQ8nqmRIf.jpg",
     "x": 50.0,
-    "y": 22.0,
-    "tx": 0.0,
+    "y": 21.2,
+    "tx": 10.2,
     "ty": 0.0,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1792083205
+    "at": 1792083218
    }
   }
  },
