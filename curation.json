@@ -1965,6 +1965,19 @@
     "by": "yoavifon",
     "at": 1792083297
    }
+  },
+  "movie:102382": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-amazing-spider-man-2-52d993d3f2354.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792083825
+   }
   }
  },
  "bad_posters": {}
