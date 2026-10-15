@@ -2223,6 +2223,19 @@
     "by": "yoavifon",
     "at": 1792092894
    }
+  },
+  "movie:284": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/t39CyVHcZRqod7bnGDhdrYiTPpw.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792092920
+   }
   }
  },
  "bad_posters": {}
