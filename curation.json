@@ -1952,6 +1952,19 @@
     "by": "yoavifon",
     "at": 1792083256
    }
+  },
+  "movie:492999": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/7AEUC2o3q0uZA0VF8xbFmAvqTSY.jpg",
+    "x": 50.0,
+    "y": 1.6,
+    "tx": 0.2,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792083297
+   }
   }
  },
  "bad_posters": {}
