@@ -2274,7 +2274,7 @@
   },
   "tv:1434": {
    "page": {
-    "img": "https://assets.fanart.tv/fanart/family-guy-59ed28acd705e.jpg",
+    "img": "https://image.tmdb.org/t/p/original/qphjUNLLOLozl2zIwDetEOXEe3F.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
@@ -2282,7 +2282,7 @@
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1792095986
+    "at": 1792096007
    }
   }
  },
