@@ -2106,6 +2106,19 @@
     "by": "yoavifon",
     "at": 1792091075
    }
+  },
+  "movie:603": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-matrix-52896a7836a1e.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792091123
+   }
   }
  },
  "bad_posters": {}
