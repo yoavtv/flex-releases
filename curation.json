@@ -1918,7 +1918,7 @@
   },
   "tv:1429": {
    "page": {
-    "img": "https://assets.fanart.tv/fanart/attack-on-titan-52607d2449ba9.jpg",
+    "img": "https://image.tmdb.org/t/p/original/4177vduzHukYVbpx4bXcptweZz6.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
@@ -1926,7 +1926,7 @@
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1792082871
+    "at": 1792082902
    }
   }
  },
