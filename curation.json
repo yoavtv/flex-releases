@@ -2067,6 +2067,19 @@
     "by": "yoavifon",
     "at": 1792090441
    }
+  },
+  "movie:557": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/spider-man-5a7f0753b4d5c.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": true,
+    "by": "yoavifon",
+    "at": 1792090525
+   }
   }
  },
  "bad_posters": {}
