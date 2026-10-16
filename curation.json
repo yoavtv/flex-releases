@@ -2581,6 +2581,19 @@
     "by": "yoavifon",
     "at": 1792148356
    }
+  },
+  "tv:1399": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/game-of-thrones-52ddf86349f99.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792148932
+   }
   }
  },
  "bad_posters": {}
