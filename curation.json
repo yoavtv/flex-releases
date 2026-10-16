@@ -2477,6 +2477,19 @@
     "by": "yoavifon",
     "at": 1792138946
    }
+  },
+  "tv:59941": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/rLbXHqHqnme6FIE0UtkV4LUI7pz.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792138980
+   }
   }
  },
  "bad_posters": {}
