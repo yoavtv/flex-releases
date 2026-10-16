@@ -2438,6 +2438,19 @@
     "by": "yoavifon",
     "at": 1792137901
    }
+  },
+  "movie:228150": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/fury-541844f400c66.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792138876
+   }
   }
  },
  "bad_posters": {}
