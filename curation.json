@@ -2490,6 +2490,19 @@
     "by": "yoavifon",
     "at": 1792138980
    }
+  },
+  "movie:661539": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/d2faCjeaynI2nPDVh9PiRapcLcl.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792140181
+   }
   }
  },
  "bad_posters": {}
