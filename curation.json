@@ -2375,6 +2375,19 @@
     "by": "yoavifon",
     "at": 1792137519
    }
+  },
+  "movie:207": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/dead-poets-society-56c433203e199.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792137540
+   }
   }
  },
  "bad_posters": {}
