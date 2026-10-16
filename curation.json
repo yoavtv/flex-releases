@@ -2568,6 +2568,19 @@
     "by": "yoavifon",
     "at": 1792148227
    }
+  },
+  "movie:505600": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/wYU7fWL9Qf1uNXNvG4jMWwSyxT3.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792148327
+   }
   }
  },
  "bad_posters": {}
