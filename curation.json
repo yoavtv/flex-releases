@@ -2400,6 +2400,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792137606
+   },
+   "card": {
+    "img": "https://image.tmdb.org/t/p/original/h61McGCr1NpVv0M1lopJfV7io0I.jpg",
+    "x": 50.0,
+    "y": 0.2,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792137620
    }
   }
  },
