@@ -2412,6 +2412,19 @@
     "by": "yoavifon",
     "at": 1792137620
    }
+  },
+  "tv:95479": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/3US5UXJSStOVozc6EwhGSMDguol.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792137862
+   }
   }
  },
  "bad_posters": {}
