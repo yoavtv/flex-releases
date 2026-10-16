@@ -2571,7 +2571,7 @@
   },
   "movie:505600": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/pqz0TO0tgmIJjlYQ8uG7aoue99d.jpg",
+    "img": "https://assets.fanart.tv/fanart/booksmart-5d66003227e9f.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
@@ -2579,7 +2579,7 @@
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1792148349
+    "at": 1792148356
    }
   }
  },
