@@ -2633,6 +2633,19 @@
     "by": "yoavifon",
     "at": 1792225317
    }
+  },
+  "movie:299536": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/avengers-infinity-war---part-i-5b0c2b0070912.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792226309
+   }
   }
  },
  "bad_posters": {}
