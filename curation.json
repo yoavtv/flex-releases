@@ -2646,6 +2646,19 @@
     "by": "yoavifon",
     "at": 1792226339
    }
+  },
+  "movie:562": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/die-hard-545cac2755e70.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792234367
+   }
   }
  },
  "bad_posters": {}
