@@ -2701,7 +2701,7 @@
   },
   "movie:60307": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/bBAo6T2sPeierRqFFe1xVvHAixC.jpg",
+    "img": "https://assets.fanart.tv/fanart/diary-of-a-wimpy-kid-rodrick-rules-572664a6dc8a6.jpg",
     "x": 50.0,
     "y": 0.0,
     "tx": 0.0,
@@ -2709,7 +2709,7 @@
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1792695015
+    "at": 1792695025
    }
   }
  },
