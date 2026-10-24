@@ -2737,6 +2737,19 @@
     "by": "yoavifon",
     "at": 1792695902
    }
+  },
+  "tv:93405": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/squid-game-615438b2cd325.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1792830198
+   }
   }
  },
  "bad_posters": {}
