@@ -2775,6 +2775,17 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1793118298
+   },
+   "poster": {
+    "img": "https://image.tmdb.org/t/p/original/l7nn4VkSwyd9HP47ACGVgdeNK2r.jpg",
+    "x": 50.0,
+    "y": 50.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1793118323
    }
   }
  },
