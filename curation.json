@@ -2800,6 +2800,19 @@
     "by": "yoavifon",
     "at": 1793226797
    }
+  },
+  "movie:1137844": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1793227842
+   }
   }
  },
  "bad_posters": {}
