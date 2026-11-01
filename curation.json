@@ -2826,6 +2826,19 @@
     "by": "yoavifon",
     "at": 1793227887
    }
+  },
+  "movie:1727734": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+    "x": 50.0,
+    "y": 22.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1793522299
+   }
   }
  },
  "bad_posters": {}
