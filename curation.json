@@ -2842,15 +2842,15 @@
   },
   "movie:1509933": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/wEctHCjibSZzWUgztmnHJ8jmOI1.jpg",
+    "img": "https://image.tmdb.org/t/p/original/5RnXQdCPr6avpeHOt3r1vev5gXa.jpg",
     "x": 50.0,
     "y": 22.0,
     "tx": 0.0,
     "ty": 0.0,
-    "zoom": 1.0,
+    "zoom": 1.25,
     "flip": false,
     "by": "yoavifon",
-    "at": 1793536161
+    "at": 1793536187
    }
   }
  },
