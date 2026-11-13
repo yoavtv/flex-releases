@@ -2959,15 +2959,15 @@
   },
   "movie:9693": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/8Y1S9BtmTOh86irwFo7CJ01YPXF.jpg",
+    "img": "https://image.tmdb.org/t/p/original/AvLsDOavbIuGfxIWJBrwlYOPNrV.jpg",
     "x": 50.0,
-    "y": 50.0,
+    "y": 22.0,
     "tx": 0.0,
     "ty": 0.0,
-    "zoom": 0.8,
+    "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1794565566
+    "at": 1794565602
    }
   }
  },
