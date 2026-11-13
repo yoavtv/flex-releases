@@ -2961,13 +2961,13 @@
    "page": {
     "img": "https://image.tmdb.org/t/p/original/www52jvhbB0ppe9s0zxbf9EYox.jpg",
     "x": 50.0,
-    "y": 3.3,
-    "tx": 0.2,
+    "y": 11.8,
+    "tx": 19.6,
     "ty": 0.0,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1794565531
+    "at": 1794565539
    }
   }
  },
