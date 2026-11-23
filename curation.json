@@ -3251,6 +3251,19 @@
     "by": "yoavifon",
     "at": 1795440949
    }
+  },
+  "movie:11": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/star-wars-episode-iv---a-new-hope-58ef39bf0edab.jpg",
+    "x": 50.0,
+    "y": 0.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1795441019
+   }
   }
  },
  "bad_posters": {}
