@@ -3264,6 +3264,19 @@
     "by": "yoavifon",
     "at": 1795441023
    }
+  },
+  "movie:1895": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/gWXs1sZJev6odEEu0bpHgvkhQH8.jpg",
+    "x": 50.0,
+    "y": 0.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1795441068
+   }
   }
  },
  "bad_posters": {}
