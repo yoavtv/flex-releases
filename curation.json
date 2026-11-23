@@ -3019,6 +3019,19 @@
     "by": "yoavifon",
     "at": 1794852472
    }
+  },
+  "movie:1300968": {
+   "page": {
+    "img": "https://image.tmdb.org/t/p/original/497KYpXqaxh99RPMVmsxAg76Nal.jpg",
+    "x": 50.0,
+    "y": 0.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1795440850
+   }
   }
  },
  "bad_posters": {}
