@@ -3238,6 +3238,19 @@
     "by": "yoavifon",
     "at": 1795440911
    }
+  },
+  "movie:278": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-shawshank-redemption-50584de200d3c.jpg",
+    "x": 50.0,
+    "y": 0.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1795440949
+   }
   }
  },
  "bad_posters": {}
