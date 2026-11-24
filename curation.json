@@ -3314,6 +3314,110 @@
     "by": "yoavifon",
     "at": 1795536942
    }
+  },
+  "tv:1405": {
+   "gallery": {
+    "items": [
+     {
+      "img": "https://assets.fanart.tv/fanart/dexter-583183539c2d2.jpg",
+      "x": 46.1,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": -0.3,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/iprMfJ9VHS4wMhBXyHtN7l9d2hP.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": -0.1,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/90j5n0K8vxf5l3ACrKaWYBgQpst.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/a7fRjgWc37Ml6bSlWoNaG7wbaqP.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/l4pb3wCBGKYc1RaDOyXmJ1oWH9t.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/fIKc2cR1GglarzChMAb4BOP1qHP.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/i0m4swbKd5r01Nlk6ZPUIDXNlfH.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/sGh3WTqPaGJB3T9YNFJDNkELio5.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/aVdFoB1tPGVKUBNTVFpMSVNJzrp.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/xTL003uGJcTHA6lnMLdB00Ytgz7.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/kk3oLvfaYuD8nhaXJZcIyngDxVP.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     },
+     {
+      "img": "https://image.tmdb.org/t/p/original/5KXZLBxoWIdBlINwrjujPsWh3ID.jpg",
+      "x": 50.0,
+      "y": 50.0,
+      "tx": 0.0,
+      "ty": 0.0,
+      "zoom": 1
+     }
+    ],
+    "by": "yoavifon",
+    "at": 1795538758
+   }
   }
  },
  "bad_posters": {}
