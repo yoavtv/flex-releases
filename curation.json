@@ -1951,15 +1951,15 @@
   },
   "tv:1429": {
    "page": {
-    "img": "https://assets.fanart.tv/fanart/attack-on-titan-551eb271053e8.jpg",
+    "img": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
     "x": 50.0,
-    "y": 22.0,
+    "y": 0.0,
     "tx": 0.0,
     "ty": 0.0,
     "zoom": 1.0,
     "flip": false,
     "by": "yoavifon",
-    "at": 1792083009
+    "at": 1795536860
    },
    "card": {
     "img": "https://image.tmdb.org/t/p/original/4177vduzHukYVbpx4bXcptweZz6.jpg",
