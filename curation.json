@@ -2867,15 +2867,15 @@
   },
   "movie:1509933": {
    "page": {
-    "img": "https://image.tmdb.org/t/p/original/5RnXQdCPr6avpeHOt3r1vev5gXa.jpg",
+    "img": "https://image.tmdb.org/t/p/original/rRyi84hzSA4JLgnuIBNv0pDkMif.jpg",
     "x": 50.0,
-    "y": 22.0,
+    "y": 0.0,
     "tx": 0.0,
     "ty": 0.0,
-    "zoom": 1.25,
+    "zoom": 1.0,
     "flip": false,
-    "by": "yoavifon",
-    "at": 1793536187
+    "by": "yoaviblum",
+    "at": 1795561650
    }
   },
   "movie:87827": {
