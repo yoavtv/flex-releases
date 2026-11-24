@@ -3301,6 +3301,19 @@
     "by": "yoavifon",
     "at": 1795441105
    }
+  },
+  "movie:238": {
+   "page": {
+    "img": "https://assets.fanart.tv/fanart/the-godfather-5ebcd940dbbb1.jpg",
+    "x": 50.0,
+    "y": 0.0,
+    "tx": 0.0,
+    "ty": 0.0,
+    "zoom": 1.0,
+    "flip": false,
+    "by": "yoavifon",
+    "at": 1795536928
+   }
   }
  },
  "bad_posters": {}
