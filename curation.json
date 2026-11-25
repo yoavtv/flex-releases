@@ -4335,6 +4335,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1795638797
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/el6KuGEa3z4JwnsmLSlD0BCCedH.jpg",
+    "cx": 100,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795638823
    }
   }
  },
