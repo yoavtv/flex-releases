@@ -28,6 +28,15 @@
     "flip": true,
     "by": "yoavifon",
     "at": 1791640036
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+    "cx": 52.1,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:1368337": {
@@ -67,6 +76,15 @@
     "zoom": 1.0,
     "by": "yoavifon",
     "at": 1791639535
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/hlY3opi1i5VShmpcrgpLks7UqnY.jpg",
+    "cx": 50.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:100402": {
@@ -320,6 +338,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791651184
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+    "cx": 33.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:3782": {
@@ -551,6 +578,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792138901
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/the-wolf-of-wall-street-5acf64c56be59.jpg",
+    "cx": 50.8,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:872585": {
@@ -898,6 +934,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791657696
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/3VlO9ITWgk4myXEXj9rixcOdc9Q.jpg",
+    "cx": 84.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:274": {
@@ -972,6 +1017,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791661377
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/breaking-bad-4fcb7b24428ba.jpg",
+    "cx": 61.8,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "tv:60059": {
@@ -1048,6 +1102,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1795540235
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+    "cx": 50.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:634649": {
@@ -1120,6 +1183,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791670730
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/3-idiots-6210ef4c2a76a.jpg",
+    "cx": 49.5,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:9426": {
@@ -1268,6 +1340,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791671374
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+    "cx": 49.87,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:13": {
@@ -1679,6 +1760,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791903033
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+    "cx": 78.7,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:218": {
@@ -2295,6 +2385,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792095200
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/joker-5d801e75e97f6.jpg",
+    "cx": 23.4,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "tv:1434": {
@@ -2308,6 +2407,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792096007
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/jbTqU6BJMufoMnPSlO4ThrcXs3Y.jpg",
+    "cx": 52.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:87516": {
@@ -2566,6 +2674,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792147884
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/the-boys-6672bf203c422.jpg",
+    "cx": 88.5,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:522039": {
@@ -2631,6 +2748,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792166756
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
+    "cx": 49.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:1170608": {
@@ -2644,6 +2770,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792225242
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/whWksgptfe5RkPhPRf0n9v3U5ES.jpg",
+    "cx": 32.9,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "tv:94997": {
@@ -2670,6 +2805,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792226339
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+    "cx": 51.6,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:562": {
@@ -2683,6 +2827,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792234376
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/die-hard-5c9c6d818ea2d.jpg",
+    "cx": 60.5,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:14160": {
@@ -2811,6 +2964,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1793118323
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
+    "cx": 58.1,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:9479": {
@@ -2876,6 +3038,15 @@
     "flip": false,
     "by": "yoaviblum",
     "at": 1795561650
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/vCpuBNMySzFO9DxLyN57oHEWxNs.jpg",
+    "cx": 32.5,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:87827": {
@@ -3303,6 +3474,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1795441105
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+    "cx": 38.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   },
   "movie:238": {
@@ -3589,6 +3769,369 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1795551212
+   }
+  },
+  "movie:1143319": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/jEg9a4l1pcGLeyLkUu1C2nmHC8O.jpg",
+    "cx": 57.48,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:1100": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/3f8aW6vcYRP6mTZdgXm83BiuB9t.jpg",
+    "cx": 46.7,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:1400": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/wEP4CLuxGFrkECTyY50cVMGySLm.jpg",
+    "cx": 87.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:406": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+    "cx": 53.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:244786": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/whiplash-54d4dcfaf3041.jpg",
+    "cx": 0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:512200": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/jumanji-the-next-level-5ddd2f95e9ac7.jpg",
+    "cx": 42.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:240": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+    "cx": 62.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:680": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/pulp-fiction-526d50098865c.jpg",
+    "cx": 41.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:68718": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/django-unchained-511105d979ff3.jpg",
+    "cx": 51.9,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:28": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+    "cx": 51.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:694": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/the-shining-5540cb8f36508.jpg",
+    "cx": 52.8,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:354912": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/coco-5a01bcc066fef.jpg",
+    "cx": 55.6,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:600": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/aDbT76VvbZaqOwhXEBMRlDFY02B.jpg",
+    "cx": 79.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:490132": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/green-book-5c2fdfecd5391.jpg",
+    "cx": 38.9,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:938": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/for-a-few-dollars-more-519a0b7660af9.jpg",
+    "cx": 4.4,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:556574": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/hamilton-5effc00b8d499.jpg",
+    "cx": 49.2,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:213375": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+    "cx": 86.1,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:124364": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+    "cx": 83.2,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:5920": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+    "cx": 65.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:79744": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+    "cx": 58.8,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:60625": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/rick-and-morty-5852c52ec40c5.jpg",
+    "cx": 52.4,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:40075": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/gravity-falls-52cb6e0ca800d.jpg",
+    "cx": 65.5,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:4057": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "cx": 49.9,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:1419": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
+    "cx": 57.2,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:63174": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+    "cx": 52.7,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:4604": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
+    "cx": 47.2,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "tv:2122": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
+    "cx": 34.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:1765072": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/fiREWUapyBJ3QTf2B2VAicRBS4r.jpg",
+    "cx": 13.1,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:1195803": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
+    "cx": 78.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:1615596": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/J07IuhpnFtT4Ag7b2BXNauym3E.jpg",
+    "cx": 48.4,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:687163": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "cx": 52.7,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:1248832": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+    "cx": 49.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
+   }
+  },
+  "movie:1514026": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/464nqiPtcXCaIHnJcSIwKWQ3pFQ.jpg",
+    "cx": 88.7,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795616250
    }
   }
  },
