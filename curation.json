@@ -895,6 +895,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1791656629
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+    "cx": 53.6,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
    }
   },
   "movie:473033": {
@@ -2583,6 +2592,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1792138876
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/fury-5938b789714fc.jpg",
+    "cx": 50.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
    }
   },
   "movie:64690": {
@@ -2648,6 +2666,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1794494045
+   },
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+    "cx": 49.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
    }
   },
   "movie:508": {
@@ -3177,6 +3204,15 @@
     "flip": false,
     "by": "yoavifon",
     "at": 1794660948
+   },
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/the-lord-of-the-rings-the-return-of-the-king-51121045c2707.jpg",
+    "cx": 13.1,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
    }
   },
   "movie:121": {
@@ -4132,6 +4168,160 @@
     "zoom": 1,
     "by": "yoavifon",
     "at": 1795616256
+   }
+  },
+  "tv:75006": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+    "cx": 73.2,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "tv:157004": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/j45FEq8BPUJDVm3cGIQye0tqPpL.jpg",
+    "cx": 57.2,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:1726": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/iron-man-5229c0b742efd.jpg",
+    "cx": 47.5,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:822119": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/ce3prrjh9ZehEl5JinNqr4jIeaB.jpg",
+    "cx": 77.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:68721": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+    "cx": 32.9,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:49051": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+    "cx": 50.7,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:57158": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+    "cx": 39.9,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "tv:114165": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/fcDM4HJybquvhTijxbSfxFTuJJf.jpg",
+    "cx": 56.5,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:11782": {
+   "tv": {
+    "img": "https://assets.fanart.tv/fanart/hard-boiled-5522abb96fa4f.jpg",
+    "cx": 72.2,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:497698": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+    "cx": 51.6,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:436969": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+    "cx": 51.3,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "tv:84773": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+    "cx": 81.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:70160": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/eVYChqJavS1DCXFeJE2lzVUMLKp.jpg",
+    "cx": 43.0,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
+   }
+  },
+  "movie:122917": {
+   "tv": {
+    "img": "https://image.tmdb.org/t/p/original/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+    "cx": 50.6,
+    "x": 50.0,
+    "y": 50.0,
+    "zoom": 1,
+    "by": "yoavifon",
+    "at": 1795618196
    }
   }
  },
