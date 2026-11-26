@@ -2867,17 +2867,6 @@
    }
   },
   "tv:97546": {
-   "page": {
-    "img": "https://assets.fanart.tv/fanart/ted-lasso-6415ab5f696a6.jpg",
-    "x": 50.0,
-    "y": 22.0,
-    "tx": 0.0,
-    "ty": 0.0,
-    "zoom": 1.0,
-    "flip": false,
-    "by": "yoavifon",
-    "at": 1792166756
-   },
    "tv": {
     "img": "https://image.tmdb.org/t/p/original/4bG49jVR7NrCNQjahDUsDqvIwle.jpg",
     "cx": 49.3,
